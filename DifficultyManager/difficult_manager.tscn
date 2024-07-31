@@ -5,13 +5,13 @@
 [sub_resource type="Curve" id="Curve_tudu3"]
 min_value = 0.25
 max_value = 2.0
-_data = [Vector2(0, 1.84789), 0.0, -1.295, 0, 1, Vector2(0.337696, 1.41057), -2.33462, -2.33462, 0, 0, Vector2(0.680628, 0.730491), -0.297557, -0.297557, 0, 0, Vector2(1, 0.25), -1.50449, 0.0, 1, 0]
+_data = [Vector2(0, 1.84789), 0.0, -1.19679, 0, 1, Vector2(0.34555, 1.43434), -3.76614, -3.76614, 0, 0, Vector2(0.680628, 0.730491), 0.291351, 0.291351, 0, 0, Vector2(1, 0.25), -1.50449, 0.0, 1, 0]
 point_count = 4
 
 [sub_resource type="Curve" id="Curve_b2jjd"]
 min_value = 19.75
 max_value = 150.0
-_data = [Vector2(0, 25.8189), 0.0, 247.773, 0, 0, Vector2(1, 150), 124.181, 0.0, 1, 0]
+_data = [Vector2(0, 19.75), 0.0, 72.6487, 0, 0, Vector2(1, 150), 130.25, 0.0, 1, 0]
 point_count = 2
 
 [sub_resource type="Curve" id="Curve_ixm1h"]

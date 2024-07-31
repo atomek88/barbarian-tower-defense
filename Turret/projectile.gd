@@ -3,7 +3,7 @@ extends Area3D
 
 var direction := Vector3.FORWARD
 
-@export var speed := 30.0
+@export var speed := 35.0
 @export var damage := 25
 # process vs physics_process functions - differ by logic vs physical simulation in game
 
